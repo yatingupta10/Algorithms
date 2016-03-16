@@ -1,5 +1,5 @@
 #include<iostream>
-#include<algorithm>
+#include<algorithm>	//for sort function
 using namespace std;
  
 void swap(int *x, int *y)
